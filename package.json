@@ -1,0 +1,24 @@
+{
+  "name": "dababy-pr",
+  "version": "1.0.0",
+  "description": "best pr tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trilleplay/dababy-pr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trilleplay/dababy-pr/issues"
+  },
+  "homepage": "https://github.com/trilleplay/dababy-pr#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.7",
+    "@actions/github": "^4.0.0"
+  }
+}

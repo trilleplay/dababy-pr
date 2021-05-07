@@ -1,0 +1,5 @@
+name: 'Lets go'
+description: 'DaBaby'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
